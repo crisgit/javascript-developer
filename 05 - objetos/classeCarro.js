@@ -16,3 +16,7 @@ class Carro {
         this.gastoMedioPorKm = gastoMedioPorKm;
     }
 }
+
+const uno = new Carro('Fiat', 'Prata', 1/12);
+
+console.log(uno);
