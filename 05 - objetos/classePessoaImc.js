@@ -18,3 +18,9 @@ class PessoaImc {
         return this.peso / (this.altura * this.altura);
     }
 }
+
+const jose = new PessoaImc('Jose', 70, 1.75);
+console.log(jose.calcularImc());
+
+const fulano = new PessoaImc('Fulano', 63, 1.75);
+console.log(fulano.calcularImc()); // um exemplo de pessoa
