@@ -14,4 +14,7 @@ class PessoaImc {
         this.peso = peso;
         this.altura = altura;
     }
+    calcularImc() {
+        return this.peso / (this.altura * this.altura);
+    }
 }
