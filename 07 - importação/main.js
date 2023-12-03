@@ -15,22 +15,14 @@ Saída:
 98
 */
 
-const numerosSorteados = [];
+const quantidadeDeAlunos = gets();
+let maiorValorEncontrado = 0;
 
-for (let i = 0; i < 5; i++) {
+for (let i = 0; i < quantidadeDeAlunos; i++) {
     const numeroSorteio = gets();
-    numerosSorteados.push(numeroSorteio);
-}
-
-// print(numeroSorteados);
-
-let maiorValor = 0;
-
-for (let i = 0; i < numerosSorteados.length; i++) {
-    const numeroSorteio = numerosSorteados[i];
-    if (numeroSorteio > maiorValor) {
-        maiorValor = numeroSorteio;
+    if (numeroSorteio > maiorValorEncontrado) {
+        maiorValorEncontrado = numeroSorteio;
     }
 }
 
-print(maiorValor);
+print(maiorValorEncontrado);
