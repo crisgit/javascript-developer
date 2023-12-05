@@ -31,7 +31,10 @@ Repositório do módulo I da trilha "Javascript Developer" | Front-End Angular
   - [x] 03 - prática_javascript
   - [x] 04 - funções
   - [x] 05 - objetos
-  - [ ] 06 - em atualização...
+  - [x] 06 - listas (arrays)
+  - [x] 07 - importação
+  - [x] pokedex - em atualização...
+
 
 ---
 
