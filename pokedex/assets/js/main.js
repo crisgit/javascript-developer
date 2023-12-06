@@ -10,6 +10,9 @@ function loadPokemonItens(offset, limit) {
         const newHtml = pokemons.map((pokemon) => `  
             <li class="pokemon ${pokemon.type}">
                 <span class="number">#${pokemon.number}</span>
+                <span class="number">peso: ${pokemon.weight}</span>
+                <span class="number">altura: ${pokemon.height}</span>
+                <span class="number">experience: ${pokemon.experience}</span>
                 <span class="name">${pokemon.name}</span>
 
                 <div class="detail">
