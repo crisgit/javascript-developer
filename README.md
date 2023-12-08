@@ -59,9 +59,9 @@ Repositório do módulo I da trilha "Javascript Developer" | Front-End Angular
     </tr>
     <tr>
       <td>02</td>
-      <td>Em atualização... </td>
+      <td>Typescript </td>
       <td align="center">
-        <a href="#">
+        <a href="https://github.com/crisgit/javascript-developer/tree/main/projeto-02">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
         </a>
       </td>
