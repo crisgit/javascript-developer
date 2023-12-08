@@ -34,7 +34,41 @@ Repositório do módulo I da trilha "Javascript Developer" | Front-End Angular
   - [x] 06 - listas (arrays)
   - [x] 07 - importação
   - [x] pokedex 
-  - [x] desafio-01 ... em atualizacao
+  - [x] componentização ... em atualizacao
+
+---
+
+### 📦 Componentização
+<table>
+  <thead>
+    <tr align="left">
+      <th>Nº</th>
+      <th>Desafios</th>
+      <th>Material</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>01</td>
+      <td>Desafio-01 🅰️ | web components </td>
+      <td align="center">
+        <a href="https://github.com/crisgit/javascript-developer/tree/main/desafio-01">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>02</td>
+      <td>Em atualização... </td>
+      <td align="center">
+        <a href="#">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
 
 ---
 
