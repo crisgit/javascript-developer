@@ -34,7 +34,7 @@ Repositório do módulo I da trilha "Javascript Developer" | Front-End Angular
   - [x] 06 - listas (arrays)
   - [x] 07 - importação
   - [x] pokedex 
-
+  - [x] desafio-01 ... em atualizacao
 
 ---
 
