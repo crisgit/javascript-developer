@@ -17,30 +17,36 @@
 
 </head>
 <body>
-    <div class="container">
-        <div class="card">
-            <div class="card__left">
-                <span>By Cristina Dias</span>
-                <a href="#">Darth Vader Procura por Devs</a>
-                <p>Darth Vader procura desenvolvedores que sabem atuar com componentes</p>
-            </div>
-            <div class="card__right">
-                <img src="assets/darth-vader.jpg" width="190vw" height="120vh" alt="caneca com imagem do darth vader e com um filhote de gato dentro da caneca">
-            </div>
-        </div>
+    <div class="app-root">
+        <card-news 
+            autor="Cristina"
+            title="Darth Vader Procura"
+            link-url="www.google.com"
+            photo="assets/darth-vader.jpg"
+            content="Darth Vader procura desenvolvedores que sabem atuar com componentes."
+        ></card-news>
+
+        <br>
+
+        <card-news 
+            title="Yoda explica como usar componentes"
+            link-url="www.google.com/yoda"
+            content="Pronunciamento de yoda choca a republica."
+        ></card-news>
+
+        <br>
+
+        <card-news 
+            title="Anakin e os componentes"
+            link-url="www.google.com/yoda"
+            content="Chegou por aqui."
+        ></card-news>
     </div>
 
-    <card-news 
-        autor="Cristina"
-        title="Darth Vader Procura"
-        link-url="www.google.com"
-        photo="assets/darth-vader.jpg"
-        content="Darth Vader procura desenvolvedores que sabem atuar com componentes."
-    ></card-news>
 
-    <titulo-dinamico titulo="Noticia urgente"></titulo-dinamico>
+    <!-- <titulo-dinamico titulo="Noticia urgente"></titulo-dinamico>
     <titulo-dinamico titulo="Novo titulo"></titulo-dinamico>
-    <titulo-dinamico titulo="Noticia nova"></titulo-dinamico>
+    <titulo-dinamico titulo="Noticia nova"></titulo-dinamico> -->
 
 </body>
 </html>
