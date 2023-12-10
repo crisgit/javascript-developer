@@ -75,6 +75,15 @@ Repositório do módulo I da trilha "Javascript Developer" | Front-End Angular
         </a>
       </td>
     </tr>
+    <tr>
+      <td>04</td>
+      <td>Angular 🅰️ | Diretivas </td>
+      <td align="center">
+        <a href="https://github.com/crisgit/javascript-developer/tree/main/angular/angular-diretivas/diretivas-proj/diretivas.md">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
