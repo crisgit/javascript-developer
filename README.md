@@ -50,7 +50,7 @@ Repositório do módulo I da trilha "Javascript Developer" | Front-End Angular
   <tbody align="left">
     <tr>
       <td>01</td>
-      <td>Desafio-01 🅰️ | web components </td>
+      <td>Desafio-01 </td>
       <td align="center">
         <a href="https://github.com/crisgit/javascript-developer/tree/main/desafio-01">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
@@ -81,6 +81,15 @@ Repositório do módulo I da trilha "Javascript Developer" | Front-End Angular
       <td align="center">
         <a href="https://github.com/crisgit/javascript-developer/blob/main/angular-diretivas/diretivas-proj/diretivas.md">
            <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>05</td>
+      <td>Angular 🅰️ | Módulos </td>
+      <td align="center">
+        <a href="https://github.com/crisgit/javascript-developer/pull/2/commits/77452719df632bd56638feb3581378bd2959b208">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
         </a>
       </td>
     </tr>
