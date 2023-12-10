@@ -84,6 +84,15 @@ Repositório do módulo I da trilha "Javascript Developer" | Front-End Angular
         </a>
       </td>
     </tr>
+      <tr>
+      <td>04</td>
+      <td>Angular 🅰️ | Módulos </td>
+      <td align="center">
+        <a href="https://github.com/crisgit/javascript-developer/pull/2/commits/77452719df632bd56638feb3581378bd2959b208">
+           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
