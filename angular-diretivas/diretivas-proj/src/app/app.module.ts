@@ -7,16 +7,22 @@ import { AppComponent } from './app.component';
 import { CardComponent } from './card/card.component';
 import { CompAtributosComponent } from './comp-atributos/comp-atributos.component';
 
+import { IndexModule } from './pages/index/index.module';
+import { PortifolioModule } from './pages/portifolio/portifolio.module';
+import { MenuComponent } from './shared/menu/menu.component';
 @NgModule({
   declarations: [
     AppComponent,
     CardComponent,
-    CompAtributosComponent
+    CompAtributosComponent,
+    MenuComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule
+    FormsModule,
+    IndexModule,
+    PortifolioModule
   ],
   providers: [],
   bootstrap: [AppComponent]
